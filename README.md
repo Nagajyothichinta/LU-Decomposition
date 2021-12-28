@@ -32,7 +32,7 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition](.\\ss1.png)
+![lu decomposition](https://github.com/Nagajyothichinta/LU-Decomposition/blob/3d3675295f18301ff905c7c8cfba5587af6de859/ss1.PNG)
 
 
 ## Result:
@@ -74,7 +74,7 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](.\ss2.png)
+![lu decomposition](https://github.com/Nagajyothichinta/LU-Decomposition/blob/3d3675295f18301ff905c7c8cfba5587af6de859/ss2.PNG)
 
 
 ## Result:
